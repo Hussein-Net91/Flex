@@ -15,7 +15,8 @@ Most view image from unsplash.it:
 
 ```sh
 html Home work Most view part
- <div class="most_view_image">
+
+<div class="most_view_image">
                             <img src="http://unsplash.it/150/199" alt="Most View Image" style="width:100%;">
                             <div class="bottom-left">
                                 <h2>
@@ -26,6 +27,6 @@ html Home work Most view part
                             <div class="top-left">
                                     <time datetime="2018-09-20">20th Sep. 2018</time>
                             </div>
-                    </div>
+</div>
 ```
 
