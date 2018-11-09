@@ -17,8 +17,11 @@ Most view image from unsplash.it:
 html Home work Most view part
 
 <div class="most_view_image">
+
                             <img src="http://unsplash.it/150/199" alt="Most View Image" style="width:100%;">
+                            
                             <div class="bottom-left">
+                            
                                 <h2>
                                         Lorem ipsum dolor sit
                                 </h2>
